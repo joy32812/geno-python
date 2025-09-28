@@ -12,7 +12,6 @@ geno-python/
 
 ## Requirements
 
-- macOS/Linux
 - Python 3.9+
 - `pytest` (for tests)
 
